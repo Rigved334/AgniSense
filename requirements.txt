@@ -1,0 +1,29 @@
+# Core data processing
+numpy
+pandas
+pyarrow
+
+# Geospatial processing
+geopandas
+shapely
+pyproj
+fiona
+rasterio
+
+# H3 spatial indexing
+h3
+
+# Machine learning
+scikit-learn
+joblib
+
+# Satellite / API access
+requests
+python-dotenv
+
+# Dashboard
+streamlit
+pydeck
+
+# Visualization
+matplotlib
